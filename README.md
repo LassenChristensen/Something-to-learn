@@ -1,2 +1,2 @@
 # Something-to-learn
-[Link navn](Sus)
+Look at my [code](Example/Program.cs)
